@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoWF.Common", "Common\PhotoWF.Common.csproj", "{398915FD-8F77-4793-A69D-523EBB361215}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoWF.DirReport", "DirReport\PhotoWF.DirReport.csproj", "{76635C25-214D-48AC-8525-B7A467DB4029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoWF.Exif", "Exif\PhotoWF.Exif.csproj", "{026C67D2-0CBC-4E4E-8780-6C99410402A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{398915FD-8F77-4793-A69D-523EBB361215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398915FD-8F77-4793-A69D-523EBB361215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398915FD-8F77-4793-A69D-523EBB361215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398915FD-8F77-4793-A69D-523EBB361215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76635C25-214D-48AC-8525-B7A467DB4029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76635C25-214D-48AC-8525-B7A467DB4029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76635C25-214D-48AC-8525-B7A467DB4029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76635C25-214D-48AC-8525-B7A467DB4029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{026C67D2-0CBC-4E4E-8780-6C99410402A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026C67D2-0CBC-4E4E-8780-6C99410402A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{026C67D2-0CBC-4E4E-8780-6C99410402A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{026C67D2-0CBC-4E4E-8780-6C99410402A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
